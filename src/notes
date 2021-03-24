@@ -1,0 +1,8 @@
+criando modulo categoria com rotas
+
+ng g m pages/categories --routing
+
+criando componentes lista e formulario
+
+ng g c pages/categories/category-list
+ng g c pages/categories/category-form
